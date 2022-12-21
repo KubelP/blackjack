@@ -6,7 +6,7 @@ Equally well known as Twenty-One. Blackjack is very popular hazard card game.
 
 For playing game only requirement is python3 interpreter or higher.
 
-## Instalation
+## Installation
 
 Clone this repositiry on your machine:
 
