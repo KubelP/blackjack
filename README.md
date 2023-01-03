@@ -1,5 +1,7 @@
 # Blackjack
 
+This project is prepare for Pycamp bootcamp. 
+
 Equally well known as Twenty-One. Blackjack is very popular hazard card game.
 
 ## Requirements
@@ -11,19 +13,19 @@ For playing game only requirement is python3 interpreter or higher.
 Clone this repositiry on your machine:
 
 ```bash
-$ git clone https://github.com/KubelP/blackjack.git
+git clone https://github.com/KubelP/blackjack.git
 ```
 
 Go to directory:
 
 ```bash
-$ cd blackjack/
+cd blackjack/
 ```
 
 and run scrpit:
 
 ```bash
-$ python3 main.py
+python3 main.py
 ```
 
 ## Game rules
